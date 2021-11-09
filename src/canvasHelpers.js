@@ -49,3 +49,4 @@ export function resize(type) {
   sizeX *= multiplier
   sizeY *= multiplier
 }
+
